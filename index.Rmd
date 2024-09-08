@@ -1,6 +1,6 @@
 ---
 title: "Ritesh Bachar"
-image: "![Profile Picture](C:/Users/Ritesh/OneDrive/Ritesh Personal Files/Headshots/Ritesh_profile pic_cropped.jpg)"
+image: "Ritesh.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ritesh-bachar-8259a5152/"
