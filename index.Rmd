@@ -1,0 +1,87 @@
+---
+title: "Ritesh Bachar"
+image: "![Profile Picture](C:/Users/Ritesh/OneDrive/Ritesh Personal Files/Headshots/Ritesh_profile pic_cropped.jpg)"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ritesh-bachar-8259a5152/"
+  - label: Facebook
+    url: "https://www.facebook.com/Ritesh.Rick/"
+  - label: GitHub
+    url: "https://github.com/ritbac"
+  - label: Email
+    url: "mailto:rbachar2029@gmail.com"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+Ritesh Bachar's research interest lies on tuberculosis, drug-resistant tuberculosis, antimicrobial resistance (AMR), and antimicrobial stewardship.
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** \| Baltimore, MD
+
+Master of Science (ScM) in EPidemiology \| August 2023 - May 2025
+
+Relevant coursework- Epidemiologic methods, Statistical methods in public health, Epidemiologic inference in outbreak investigation, Epidemiology of infectious diseases, Concepts and methods in infectious disease epidemiology, Infectious disease dynamics.
+
+**North South University** \| Dhaka, Bangladesh
+
+Master of Public Health \| June 2020 - June 2023
+
+Concentration- Epidemiology and Reproductive and Child Health
+
+**University of Dhaka** \| Dhaka, Bangladesh
+
+Master of Pharmacy \| October 2017 - April 2019
+
+**University of Dhaka** \| Dhaka, Bangladesh
+
+Bachelor of Professional Pharmacy \| January 2012 - July 2017
+
+## Research Experience
+
+**Research Assistant** \| Epidemiology, Bloomberg School of Public Health \| June 2024 - Present
+
+Working on a project focusing on human seroprevalence for different infectious pathogens which can be measured by Luminex assays. This project is funded by the Bill & Melinda Gates Foundation. Advisors- Drs. Saki Takahashi and Sonia Tara Hegde.
+
+**Master of Public Health Thesis** \| January 2023-May 2023
+
+Cross-sectional study comprising of data collection, data cleaning and analysis using statistical software packages. Thesis title- “Investigating use of antibiotics and knowledge about antimicrobial resistance among pharmacy students in Bangladeshi Universities”
+
+**Master of Pharmacy Thesis** \| March 2018-February 2019
+
+Lab work comprising of hydro distillation, organic phase partitioning, cytotoxicity assay, antioxidant activity using DPPH assay method, thrombolytic activity, antimicrobial screening using disc diffusion method.
+
+**Bachelor of Professional Pharmacy Project** \| January 2016-May 2016
+
+Survey of patients diagnosed with respiratory tract infection (RTI) and surgical site infection (SSI) and observing the antibiotic sensitivity pattern among them.
+
+## Teaching Experience
+
+**Teaching Assistant** \| Epidemiology, Bloomberg School of Public Health \| June 2024
+
+**Lecturer** \| University of Information Technology & Sciences, Dhaka, Bangladesh \| January 2020- June 2023
+
+Preparing course materials and delivering to students, planning lessons, assessing student works, supervising student projects, conducting research, coordinating with colleagues, performing administrative works.
+
+## Professional Experience
+
+**Officer** \| Analytical Division, R&D, Beximco Pharmaceuticals Ltd., Dhaka, Bangladesh \| July 2019- January 2020
+
+Analytical method development, method validation and analysis, HPLC operation, solvent system development, quality assurance, documentation, compliance.
+
+**Product Executive** \| Biotech Team, Advanced Chemical Industries Limited, Dhaka, Bangladesh \| October 2017- May 2018
+
+Competitor analysis & formulating marketing strategy, training field forces, product development activities, product performance review, compliance.
+
+## Publications
+
+1.Bachar, S. C., Mazumder, K., *Bachar, R.*, Aktar, A., & Al Mahtab, M. (2021). A review of medicinal plants with antiviral activity available in Bangladesh and mechanistic insight into their bioactive metabolites on SARS-CoV-2, HIV and HBV. Frontiers in Pharmacology, 12.
+
+2.Baroi, S., Saha, A., *Bachar, R.*., & Bachar, S. C. (2020). Cannabinoid as potential aromatase inhibitor through molecular modeling and screening for anti-cancer activity. Dhaka University Journal of Pharmaceutical Sciences, 19(1), 47-58. 3.Bachar, S. C., Bachar, R., Jannat, K., Jahan, R., & Rahmatullah, M. (2020).
+
+3.Bachar, S. C., *Bachar, R.*, Jannat, K., Jahan, R., & Rahmatullah, M. (2020). Hepatoprotective natural products. Annual Reports in Medicinal Chemistry, 55, 207-249.
+
+4.Khan, S. I., Saha, S. K., Poddar, S. K., *Bachar, R.*., Shoyaib, A. A., Chakrabarty, J. K., ... & Pal, T. K. (2017). Bioequivalence studies and pharmacokinetic properties of atorvastatin 40mg tablet in healthy bengali subjects. MOJ Bioequiv Availab, 4(2), 00064.
