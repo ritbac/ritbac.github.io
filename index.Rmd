@@ -1,6 +1,6 @@
 ---
 title: "Ritesh Bachar"
-image: "Ritesh.jpg"
+image: "Ritesh.jpeg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ritesh-bachar-8259a5152/"
@@ -44,8 +44,6 @@ Bachelor of Professional Pharmacy \| January 2012 - July 2017
 
 **Research Assistant** \| Epidemiology, Bloomberg School of Public Health \| June 2024 - Present
 
-Working on a project focusing on human seroprevalence for different infectious pathogens which can be measured by Luminex assays. This project is funded by the Bill & Melinda Gates Foundation. Advisors- Drs. Saki Takahashi and Sonia Tara Hegde.
-
 **Master of Public Health Thesis** \| January 2023-May 2023
 
 Cross-sectional study comprising of data collection, data cleaning and analysis using statistical software packages. Thesis title- “Investigating use of antibiotics and knowledge about antimicrobial resistance among pharmacy students in Bangladeshi Universities”
@@ -78,10 +76,10 @@ Competitor analysis & formulating marketing strategy, training field forces, pro
 
 ## Publications
 
-1.Bachar, S. C., Mazumder, K., *Bachar, R.*, Aktar, A., & Al Mahtab, M. (2021). A review of medicinal plants with antiviral activity available in Bangladesh and mechanistic insight into their bioactive metabolites on SARS-CoV-2, HIV and HBV. Frontiers in Pharmacology, 12.
+1. Bachar, S. C., Mazumder, K., *Bachar, R.*, Aktar, A., & Al Mahtab, M. (2021). A review of medicinal plants with antiviral activity available in Bangladesh and mechanistic insight into their bioactive metabolites on SARS-CoV-2, HIV and HBV. Frontiers in Pharmacology, 12.
 
-2.Baroi, S., Saha, A., *Bachar, R.*., & Bachar, S. C. (2020). Cannabinoid as potential aromatase inhibitor through molecular modeling and screening for anti-cancer activity. Dhaka University Journal of Pharmaceutical Sciences, 19(1), 47-58. 3.Bachar, S. C., Bachar, R., Jannat, K., Jahan, R., & Rahmatullah, M. (2020).
+2. Baroi, S., Saha, A., *Bachar, R.*., & Bachar, S. C. (2020). Cannabinoid as potential aromatase inhibitor through molecular modeling and screening for anti-cancer activity. Dhaka University Journal of Pharmaceutical Sciences, 19(1), 47-58. 3.Bachar, S. C., Bachar, R., Jannat, K., Jahan, R., & Rahmatullah, M. (2020).
 
-3.Bachar, S. C., *Bachar, R.*, Jannat, K., Jahan, R., & Rahmatullah, M. (2020). Hepatoprotective natural products. Annual Reports in Medicinal Chemistry, 55, 207-249.
+3. Bachar, S. C., *Bachar, R.*, Jannat, K., Jahan, R., & Rahmatullah, M. (2020). Hepatoprotective natural products. Annual Reports in Medicinal Chemistry, 55, 207-249.
 
-4.Khan, S. I., Saha, S. K., Poddar, S. K., *Bachar, R.*., Shoyaib, A. A., Chakrabarty, J. K., ... & Pal, T. K. (2017). Bioequivalence studies and pharmacokinetic properties of atorvastatin 40mg tablet in healthy bengali subjects. MOJ Bioequiv Availab, 4(2), 00064.
+4. Khan, S. I., Saha, S. K., Poddar, S. K., *Bachar, R.*., Shoyaib, A. A., Chakrabarty, J. K., ... & Pal, T. K. (2017). Bioequivalence studies and pharmacokinetic properties of atorvastatin 40mg tablet in healthy bengali subjects. MOJ Bioequiv Availab, 4(2), 00064.
